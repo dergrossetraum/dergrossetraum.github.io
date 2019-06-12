@@ -100,9 +100,10 @@ body {
 
 /* Affix Custom Styles */
 ul.nav-tabs{
-  width: 100%;
+  width: 200px;
   margin-top: 20px;
   border-radius: 4px;
+  overflow：hidden;
   border: 1px solid #ddd;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
 }
