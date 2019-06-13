@@ -82,11 +82,11 @@ ul.nav-tabs{
   width: 200px;
   margin-top: 20px;
   border-radius: 2px;
-  border: 1px solid #dddddd;
+  border: 1px solid #aaaaaa;
 }
 ul.nav-tabs li{
     margin: 0;
-    border-top: 1px solid #dddddd;
+    border-top: 1px solid #aaaaaa;
 }
 ul.nav-tabs li:first-child{
     border-top: none;
