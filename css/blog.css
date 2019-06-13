@@ -1,16 +1,16 @@
-body{
-  background: #ececec;
+body {
+  background: #eeeeee;
   font-family: Helvetica, Tahoma, Arial, "Microsoft YaHei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
+}
+
+p {
+  text-indent: 2em;
 }
 
 .blog-main {
   font-size: 16px;
   line-height: 1.5;
 }
-
-p{ 
-  text-indent: 2em;
-} 
 
 .blog-post {
   margin-bottom: 60px;
@@ -28,6 +28,6 @@ p{
   padding: 40px 0;
   color: #eeeeee;
   text-align: center;
-  background-color: #7acfd6;
+  background-color: #9dd7e1;
   border-top: 1px solid #1098f7;
 }
