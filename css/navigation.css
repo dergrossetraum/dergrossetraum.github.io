@@ -1,6 +1,6 @@
 /* work.smarchal.com/twbscolor */
 .navbar-default {
-  background-color: #7acfd6;
+  background-color: #c0e0ec;
   border-color: #1098f7;
 }
 .navbar-default .navbar-brand {
@@ -21,7 +21,7 @@
   color: #ffffff;
 }
 .navbar-default .navbar-nav > li > .dropdown-menu {
-  background-color: #7acfd6;
+  background-color: #c0e0ec;
 }
 .navbar-default .navbar-nav > li > .dropdown-menu > li > a {
   color: #ffffff;
@@ -130,5 +130,5 @@ ul.nav-tabs li:last-child a{
     border-radius: 0 0 4px 4px;
 }
 ul.nav-tabs.affix{
-    top: 30px; /* Set the top position of pinned element */
+    top: 0px; /* Set the top position of pinned element */
 }
