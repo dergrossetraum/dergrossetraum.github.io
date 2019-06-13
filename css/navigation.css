@@ -1,7 +1,7 @@
 /* work.smarchal.com/twbscolor */
 .navbar-default {
   background-color: #ffffff;
-  border-color: #eeeeee;
+  border-color: #1098f7;
 }
 .navbar-default .navbar-brand {
   color: #555555;
@@ -82,31 +82,27 @@ ul.nav-tabs{
   width: 200px;
   margin-top: 20px;
   border-radius: 4px;
-  border: 1px solid #ddd;
-  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.067);
+  border: 2px solid #666666;
+  box-shadow: 10px 10px 4px #999999;
 }
 ul.nav-tabs li{
     margin: 0;
-    border-top: 1px solid #ddd;
+    border-top: 2px solid #666666;
 }
 ul.nav-tabs li:first-child{
     border-top: none;
 }
 ul.nav-tabs li a{
-    margin: 0;
+    margin: 0px;
     padding: 8px 16px;
-    border-radius: 0;
+    border-radius: 0px;
 }
 ul.nav-tabs li.active a, ul.nav-tabs li.active a:hover{
-    color: #fff;
+    color: #ffffff;
     background: #1098f7;
-    border: 1px solid rgba(0, 0, 0, 0.067);
-}
-ul.nav-tabs li:first-child a{
-    border-radius: 4px 4px 0 0;
-}
-ul.nav-tabs li:last-child a{
-    border-radius: 0 0 4px 4px;
+    margin: 0px;
+    border-radius: 0px;
+    border: solid #1098f7;
 }
 ul.nav-tabs.affix{
     top: 0px; /* Set the top position of pinned element */
