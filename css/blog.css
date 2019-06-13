@@ -1,5 +1,5 @@
 body {
-  background: #eeeeee;
+  background: #ffffff;
   font-family: Helvetica, Tahoma, Arial, "Microsoft YaHei", "Hiragino Sans GB", "WenQuanYi Micro Hei", sans-serif;
 }
 p {
@@ -22,8 +22,8 @@ p {
 }
 .blog-footer {
   padding: 40px 0;
-  color: #eeeeee;
+  color: #999999;
   text-align: center;
-  background-color: #9dd7e1;
+  background-color: #ffffff;
   border-top: 1px solid #1098f7;
 }
