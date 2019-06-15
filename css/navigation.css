@@ -70,16 +70,13 @@
 }
 
 /* navbar-static-top */
-body {
-  min-height: 0px;
-}
 .navbar-static-top {
   margin-bottom: 19px;
 }
 
 /* Affix Custom Styles */
 ul.nav-tabs{
-  width: 200px;
+  width: auto;
   margin-top: 20px;
   border-radius: 2px;
   border: 1px solid #aaaaaa;
@@ -93,7 +90,7 @@ ul.nav-tabs li:first-child{
 }
 ul.nav-tabs li a{
     margin: 0px;
-    padding: 8px 16px;
+    padding: 6px 12px;
     border-radius: 0px;
 }
 ul.nav-tabs li.active a, ul.nav-tabs li.active a:hover{
