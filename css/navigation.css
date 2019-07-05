@@ -76,7 +76,7 @@
 
 /* Affix Custom Styles */
 ul.nav-tabs{
-  width: auto;
+  width: 200px;
   margin-top: 20px;
   border-radius: 2px;
   border: 1px solid #aaaaaa;
