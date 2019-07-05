@@ -13,8 +13,8 @@ p {
  * Main column and sidebar layout
  */
 .blog-main {
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 18px;
+  line-height: 2;
 }
 .blog-post {
   margin-bottom: 60px;
